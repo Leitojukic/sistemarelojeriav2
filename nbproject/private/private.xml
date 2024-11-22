@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/DonMario/Documents/NetBeansProjects/SistemaRelojeria/src/com/relojeria/utils/JWTUtil.java</file>
+            <file>file:/C:/Users/DonMario/Documents/NetBeansProjects/SistemaRelojeria/src/com/relojeria/ui/MainFrame.java</file>
+            <file>file:/C:/Users/DonMario/Documents/NetBeansProjects/SistemaRelojeria/src/com/relojeria/model/Producto.java</file>
+            <file>file:/C:/Users/DonMario/Documents/NetBeansProjects/SistemaRelojeria/src/com/relojeria/utils/ReporteVentas.java</file>
+            <file>file:/C:/Users/DonMario/Documents/NetBeansProjects/SistemaRelojeria/src/com/relojeria/dao/UsuarioDAO.java</file>
+            <file>file:/C:/Users/DonMario/Documents/NetBeansProjects/SistemaRelojeria/src/com/relojeria/utils/ConexionBD.java</file>
+            <file>file:/C:/Users/DonMario/Documents/NetBeansProjects/SistemaRelojeria/src/com/relojeria/ui/ReporteVentasFrame.java</file>
+            <file>file:/C:/Users/DonMario/Documents/NetBeansProjects/SistemaRelojeria/src/com/relojeria/ui/GestionProductosFrame.java</file>
+            <file>file:/C:/Users/DonMario/Documents/NetBeansProjects/SistemaRelojeria/src/com/relojeria/ui/Login.java</file>
+            <file>file:/C:/Users/DonMario/Documents/NetBeansProjects/SistemaRelojeria/src/com/relojeria/model/Usuario.java</file>
+            <file>file:/C:/Users/DonMario/Documents/NetBeansProjects/SistemaRelojeria/src/com/relojeria/ui/GestionUsuariosFrame.java</file>
+            <file>file:/C:/Users/DonMario/Documents/NetBeansProjects/SistemaRelojeria/src/com/relojeria/ui/AltaUsuarioFrame.java</file>
+            <file>file:/C:/Users/DonMario/Documents/NetBeansProjects/SistemaRelojeria/src/com/relojeria/dao/ConexionBD.java</file>
+            <file>file:/C:/Users/DonMario/Documents/NetBeansProjects/SistemaRelojeria/src/com/relojeria/dao/ProductoDAO.java</file>
+            <file>file:/C:/Users/DonMario/Documents/NetBeansProjects/SistemaRelojeria/src/com/relojeria/ui/AltaProductoFrame.java</file>
+            <file>file:/C:/Users/DonMario/Documents/NetBeansProjects/SistemaRelojeria/src/com/relojeria/ui/EditarUsuario.java</file>
+            <file>file:/C:/Users/DonMario/Documents/NetBeansProjects/SistemaRelojeria/src/com/relojeria/service/Authservice.java</file>
+            <file>file:/C:/Users/DonMario/Documents/NetBeansProjects/SistemaRelojeria/src/com/relojeria/ui/AltaProducto.java</file>
+            <file>file:/C:/Users/DonMario/Documents/NetBeansProjects/SistemaRelojeria/src/com/relojeria/ui/LoginFrame.java</file>
+            <file>file:/C:/Users/DonMario/Documents/NetBeansProjects/SistemaRelojeria/src/com/relojeria/ui/graficoFrame.java</file>
+        </group>
+    </open-files>
+</project-private>
