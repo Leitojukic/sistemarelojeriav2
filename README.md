@@ -2,7 +2,7 @@ Bienvenidos al Proyecto de Mario LUPPI & Leonardo JUKIC
 El siguiente codigo esta escrito en Java mediante -IDE NETBEANS, presentacion hecha para el Prof. PABLO NAVAS
 Trata de un Sistema de Relojeria.
 
-El día 26-11-2024 se lanzo la versión 3.0 se agrega URL en drive conlos archivos adjuntos para la explicación detalla del Sistema: https://drive.google.com/file/d/18Bc6-35zKvILQ89nHHzoTDo5x3thXi2_/view?usp=sharing
+El día 26-11-2024 se lanzo la versión 3.0 se agrega URL en drive con los archivos adjuntos para la explicación detalla del Sistema en donde encontraremos word, pdf y mas info: https://drive.google.com/file/d/18Bc6-35zKvILQ89nHHzoTDo5x3thXi2_/view?usp=sharing
 
 Debajo dejo el paso a paso de como fue la produccion de este proyecto
 
