@@ -1,6 +1,8 @@
 Bienvenidos al Proyecto de Mario LUPPI & Leonardo JUKIC
 El siguiente codigo esta escrito en Java mediante -IDE NETBEANS, presentacion hecha para el Prof. PABLO NAVAS
-Trata de un Sistema de Relojeria.
+Trata de un Sistema de Gestión para Relojeria.
+
+El proyecto "com.relojeria"es una aplicacion de esritorio desarrollada en Java, orientada a la gestion de una relojeria. Esta Aplicacion utiliza una arquitectura modular basada en paquetes para organizar el codigo y sus funcionalidades. Integra una conexion a una base de datos alojada en PythonAnywhere, permite la gestion de usuarios, prodcutos, y ventas, y ofrece caracteristicas adicionales como generacion de graficos y reportes.
 
 El día 26-11-2024 se lanzo la versión 3.0 se agrega URL en drive con los archivos adjuntos para la explicación detalla del Sistema en donde encontraremos word, pdf y mas info: https://drive.google.com/file/d/18Bc6-35zKvILQ89nHHzoTDo5x3thXi2_/view?usp=sharing
 
